@@ -1,0 +1,7 @@
+# Build outputs
+raytracer
+raytracer-release
+*.dSYM/
+
+# Rendered images
+*.ppm
